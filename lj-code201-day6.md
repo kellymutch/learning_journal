@@ -1,0 +1,1 @@
+ Very interesting material but I was not able to keep up in lab. Thought I had a handle on the DOM aspect but errored out when try to do the links. Could not get the Google font to show up, just a low night.
